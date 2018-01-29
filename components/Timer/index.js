@@ -8,8 +8,7 @@ function mapStateToProps(state) {
   return {
     isPlaying,
     elapsedTime,
-    timerDuration,
-    addSecond
+    timerDuration
   };
 }
 
